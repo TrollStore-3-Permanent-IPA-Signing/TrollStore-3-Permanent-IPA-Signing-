@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/OtgV1gGc">
+  <a href="https://cutt.ly/HtOd0tTS">
     <img src="https://img.shields.io/badge/Open_TrollStore_3_Pro_Guide-FF6B35?style=for-the-badge&logo=trollstore&logoColor=white"
          height="84"
          style="border-radius:42px; box-shadow:0 20px 60px rgba(255,107,53,0.6);">
